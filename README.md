@@ -1,6 +1,6 @@
 # Stock
 
-Stock Prediction by using LSTM (with emotion dictionary) clone<br>
+Stock Prediction by using LSTM (with emotion dictionary)
 <br>
 ### Something new learn - LSTM, NLP(Mecab), 감성사전
 <br>
